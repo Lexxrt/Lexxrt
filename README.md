@@ -5,6 +5,8 @@ JS        █████      40 %
 HTML/CSS  ████       35 %
 Batch     ████       30 %
 Shell     ███        13 %
+Java      ███        09 %
+C++       ███        09 %
 ```
 <img src="https://github-readme-stats.vercel.app/api?username=Lexxrt&show_icons=true&theme=gotham" alt="Lexxrt"/>
 
