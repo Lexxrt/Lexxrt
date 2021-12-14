@@ -1,4 +1,4 @@
-﻿```
+```
 C#        █████████  78 %
 Python    ████████   54 %
 JS        █████      40 %
@@ -10,5 +10,7 @@ C++       ███        09 %
 ```
 <img src="https://github-readme-stats.vercel.app/api?username=Lexxrt&show_icons=true&theme=gotham" alt="Lexxrt"/>
 
-![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/3EyYASrH4s9xbYuuh67RjgtCTM1q6ze25j)
-![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0x0CED8CCC0C56853CA362e51b1d1a9775f6DAbDda)
+![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/bc1qk3d9c7d5newdmzzszcv9z6sdf3enqvu6c4v4qf)
+![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0xD182f31476C5CE28B1711261d6592D86f99e8CF1)
+![Donate with Litecoin](https://en.cryptobadges.io/badge/small/LSoYzELvfkdksAK7DXLJsKEnVe3KbdHpzg)
+![Donate with Ripple](https://en.cryptobadges.io/badge/small/rnVtSDWjnAGDVdP5hWigEw9aAXhT1bqpwd)
