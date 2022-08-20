@@ -10,3 +10,5 @@ C++       ███        15 %
 Java      ███        09 %
 ```
 <img src="https://github-readme-stats.vercel.app/api?username=Lexxrt&show_icons=true&theme=gotham" alt="Lexxrt"/>
+
+*I go by many names. "Lexxrt" is one of them.*
